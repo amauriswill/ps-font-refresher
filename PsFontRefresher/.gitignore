@@ -1,0 +1,15 @@
+# Sistemas Operativos
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Adobe Photoshop
+*.psd
+*.psb
+*.tmp
+*.psp
+
+# Logs y Temporales
+*.log
+.vscode/
+.idea/

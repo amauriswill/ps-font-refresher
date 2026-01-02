@@ -1,0 +1,32 @@
+GUÍA DE UTILIZACIÓN E INSTALACIÓN
+=================================
+
+MÉTODO 1: USO RÁPIDO (Sin instalación)
+--------------------------------------
+1. Guarda el código del "Script 1" en un archivo llamado "RefrescarFuentes.jsx".
+2. En Photoshop, ve a: Archivo > Secuencias de comandos > Explorar...
+   (File > Scripts > Browse...)
+3. Selecciona el archivo. Listo.
+
+MÉTODO 2: INSTALACIÓN PERMANENTE (Recomendado)
+----------------------------------------------
+Para que el script aparezca siempre en el menú de Photoshop:
+
+1. Copia el archivo "RefrescarFuentes.jsx".
+2. Pégalo en la carpeta de scripts de Photoshop:
+   - Windows: C:\Archivos de programa\Adobe\Adobe Photoshop [Versión]\Presets\Scripts\
+   - Mac: /Applications/Adobe Photoshop [Versión]/Presets/Scripts/
+3. Reinicia Photoshop una vez.
+4. Ahora aparecerá en: Archivo > Secuencias de comandos > RefrescarFuentes.
+
+MÉTODO 3: CREAR ATAJO DE TECLADO (F5, F12, etc.)
+------------------------------------------------
+Si quieres ejecutarlo con una sola tecla:
+
+1. Abre el panel de Acciones (Ventana > Acciones).
+2. Crea una "Acción Nueva" (icono del folio doblado).
+3. Ponle nombre (ej: "Refrescar Fonts") y asigna una tecla de función (ej: F5). Dale a "Grabar".
+4. Ve al menú: Archivo > Secuencias de comandos > Explorar... y selecciona tu script.
+   (O selecciona el script del menú si ya hiciste el Método 2).
+5. El script se ejecutará. Cuando termine, pulsa el botón "Stop" (cuadrado) en el panel de Acciones.
+6. ¡Listo! Ahora cada vez que presiones F5, se actualizarán las fuentes.
